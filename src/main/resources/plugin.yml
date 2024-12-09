@@ -1,0 +1,4 @@
+name: NoaSK
+version: '1'
+main: com.noa.development.noaSK.NoaSK
+api-version: '1.21'
